@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Lucas 👋
 
-<!--
-**lucascunha93/lucascunha93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engenheiro de Software Full Stack Sênior, com 7+ anos construindo produtos web, mobile e B2B enterprise.
 
-Here are some ideas to get you started:
+- 💼 Hoje: produto B2B de gestão de força de trabalho (WFM) com Angular 19, Signals e RxJS
+- 📱 Mobile: apps Android/iOS com Ionic + Capacitor publicados nas lojas
+- ☕ Em evolução: back-end com Java/Spring Boot e Node.js, e IA aplicada
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Stack
+Angular · Ionic · Capacitor · TypeScript · RxJS · NgRx · Signals · Node.js · NestJS · Java · Spring Boot · PostgreSQL · Docker · Kafka · Vitest · Jest · GitHub Actions
+
+### 🚀 Projetos em destaque
+- **[TaskFlow](https://github.com/lucascunha93/taskflow):** SaaS B2B com NestJS, Angular standalone e app Ionic offline-first com sincronização e resolução de conflitos
+- **[ShopMesh](https://github.com/lucascunha93/ShopMesh):** e-commerce em microsserviços (Java/Spring Boot + Node.js) com Kafka, Saga Pattern e observabilidade
+
+### 📫 Contato
+[LinkedIn](https://www.linkedin.com/in/olucasdev)
