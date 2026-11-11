@@ -4,10 +4,10 @@ Engenheiro de Software Full Stack Sênior, com 7+ anos construindo produtos web,
 
 - 💼 Hoje: produto B2B de gestão de força de trabalho (WFM) com Angular 19, Signals e RxJS
 - 📱 Mobile: apps Android/iOS com Ionic + Capacitor publicados nas lojas
-- ☕ Em evolução: back-end com Java/Spring Boot e Node.js, e IA aplicada
+- ☕ Back-end com Java/Spring Boot, Node.js, Python, Firebase, .NET/C# e IA aplicada
 
 ### 🛠️ Stack
-Angular · Ionic · Capacitor · TypeScript · RxJS · NgRx · Signals · Node.js · NestJS · Java · Spring Boot · PostgreSQL · Docker · Kafka · Vitest · Jest · GitHub Actions
+Angular · Ionic · Capacitor · TypeScript · RxJS · NgRx · Signals · Node.js · NestJS · Java · Spring Boot · Firebase · .NET/C# · Python · PostgreSQL · Docker · Kafka · Vitest · Jest · GitHub Actions
 
 ### 🚀 Projetos em destaque
 - **[TaskFlow](https://github.com/lucascunha93/taskflow):** SaaS B2B com NestJS, Angular standalone e app Ionic offline-first com sincronização e resolução de conflitos
